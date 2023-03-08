@@ -57,3 +57,8 @@ In all of R code chunks above the `echo = FALSE` attribute is used. This is to p
 
 
 
+```{r}
+library(ggplot2)
+```
+
+
